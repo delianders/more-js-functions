@@ -20,7 +20,7 @@ addTheValues("Cool,", "Dude");
 
 // let's talk about scope and see it in action
 // function with a local variable to display to the screen
-// TO DO
+
 
 // do functions execute when you don't call them?
 // TO DO
