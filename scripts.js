@@ -54,7 +54,7 @@ addToPage("The score after two baskets and one three point throw: " + scoreThree
 // don't forget, you can call a function that returns a value and assign that returned value to a variable
 // this function will double the parameter's value and return it
 // let's create a number variable and initialize it to a value of 5
-let number = 10;
+let number = 5;
 
 function doubleMyNumber(number){
     return number *= 2;
